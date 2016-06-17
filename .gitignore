@@ -1,0 +1,4 @@
+*.gz
+*.gct
+*.txt
+.ipynb_checkpoints
